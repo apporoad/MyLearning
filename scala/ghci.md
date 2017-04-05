@@ -8,3 +8,12 @@
 
 //set prompt
 :set prompt "ghci> "
+
+
+:module + Data.Ratio
+
+
+//infix prefix
+2 + 2
+
+(+) 2 2
