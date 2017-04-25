@@ -17,3 +17,15 @@
 2 + 2
 
 (+) 2 2
+
+
+//others
+True && False
+False || True
+error: True && 1
+
+//Compares 
+1 /= 2  (like  1 != 2 in C)
+not False (like ! False in C)
+
+:info (+)
