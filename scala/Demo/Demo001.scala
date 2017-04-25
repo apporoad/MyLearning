@@ -20,3 +20,8 @@ val a,b:Int =3
 1.toString
 
 1.to(100)
+
+"hello".intersect("world")
+97.toChar
+
+13.+(12)
