@@ -25,3 +25,6 @@ val a,b:Int =3
 97.toChar
 
 13.+(12)
+
+// apply 方法
+"hello"(4)
