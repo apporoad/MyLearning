@@ -24,6 +24,10 @@ centos7   192.168.12.231 00:0C:29:1B:DD:2F
 
 openSuse 192.168.12.231 00:0C:29:1B:DD:2F  for dev
 
+spark1  192.168.60.201
+spark2  192.168.60.202
+spark3  192.168.60.203
+
 all:
 
 paas1  orgin os,

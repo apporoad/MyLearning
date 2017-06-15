@@ -1,3 +1,1 @@
 http://flume.apache.org/FlumeUserGuide.html
-
-https://cwiki.apache.org//confluence/display/FLUME/Getting+Started
