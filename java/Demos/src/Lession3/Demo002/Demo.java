@@ -49,7 +49,7 @@ public class Demo {
 	    
 	    //update
 	    User up = new User();
-	    up.setAge(15);
+	    up.setAge(15);  
 	    up.setName("aaaaaaaaaaaaaaaaaaaaa");
 	    mapper.update(up);
 	    
